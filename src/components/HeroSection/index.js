@@ -35,7 +35,7 @@ const HeroSection = () => {
            </HeroBg>
 
            <HeroContent>
-               <HeroH1> Jupe, The Next Best Thing!</HeroH1>
+               <HeroH1> Khyams, The Next Best Thing!</HeroH1>
                <HeroP>The Next Best Thing</HeroP>
                <HeroBtnWrapper>
                    <Button 

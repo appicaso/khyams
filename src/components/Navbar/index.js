@@ -44,7 +44,7 @@ const toggleHome = () => {
 
     <Nav scrollNav={scrollNav}>
         <NavbarContainer>
-            <NavLogo to="/" onClick={toggleHome}>Jupe</NavLogo>  
+            <NavLogo to="/" onClick={toggleHome}>Khyams</NavLogo>  
             <MobileIcon onClick={toggle}>
                 <FaBars />
             </MobileIcon>
